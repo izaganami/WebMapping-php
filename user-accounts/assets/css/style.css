@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+* { font-family: 'Lora', serif; font-size: 1.04em; }
+span.help-block { font-size: .7em; }
+form label { font-weight: normal; }
+.success_msg { color: '#218823'; }
+.form { border-radius: 5px; border: 1px solid #d1d1d1; padding: 0px 10px 0px 10px; margin-bottom: 50px; }
+#image_display { height: 90px; width: 80px; float: right; margin-right: 10px; }
+.map {
+    width:80%;
+    height:60%
+}
